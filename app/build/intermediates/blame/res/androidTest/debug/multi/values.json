@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/m4l3x/AndroidStudioProjects/KuriasAppDev/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "outputFile": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 96
                 },
                 "from": {
-                    "file": "/home/m4l3x/AndroidStudioProjects/KuriasAppDev/app/build/intermediates/exploded-aar/com.android.support.test/rules/0.5/res/values/values.xml",
+                    "file": "/home/m4l3x/.android/build-cache/b9da1d0eb00e46fd424e4823d4ce0871e36d4253/output/res/values/values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
