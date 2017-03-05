@@ -4,6 +4,10 @@
         "source": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
     },
     {
+        "merged": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/splash.png",
+        "source": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/src/main/res/mipmap-xxhdpi/splash.png"
+    },
+    {
         "merged": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/toolbar_logo.png",
         "source": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/src/main/res/mipmap-xxhdpi/toolbar_logo.png"
     }

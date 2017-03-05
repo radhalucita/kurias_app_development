@@ -20,24 +20,24 @@
         "source": "/home/m4l3x/.android/build-cache/8124e4bce4fc0ca8bbffa407b0c768bce75f3b8f/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
-        "source": "/home/m4l3x/.android/build-cache/8124e4bce4fc0ca8bbffa407b0c768bce75f3b8f/output/res/drawable/abc_cab_background_top_material.xml"
-    },
-    {
         "merged": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/res/merged/debug/drawable/navigation_empty_icon.xml",
         "source": "/home/m4l3x/.android/build-cache/383b599908e4ac724bee04f3a1d738df0ea9e512/output/res/drawable/navigation_empty_icon.xml"
     },
     {
-        "merged": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
-        "source": "/home/m4l3x/.android/build-cache/8124e4bce4fc0ca8bbffa407b0c768bce75f3b8f/output/res/drawable/abc_item_background_holo_dark.xml"
+        "merged": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/m4l3x/.android/build-cache/8124e4bce4fc0ca8bbffa407b0c768bce75f3b8f/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/home/m4l3x/.android/build-cache/8124e4bce4fc0ca8bbffa407b0c768bce75f3b8f/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
         "merged": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
         "source": "/home/m4l3x/.android/build-cache/8124e4bce4fc0ca8bbffa407b0c768bce75f3b8f/output/res/drawable/abc_seekbar_thumb_material.xml"
     },
     {
-        "merged": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "/home/m4l3x/.android/build-cache/8124e4bce4fc0ca8bbffa407b0c768bce75f3b8f/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+        "merged": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/m4l3x/.android/build-cache/8124e4bce4fc0ca8bbffa407b0c768bce75f3b8f/output/res/drawable/abc_item_background_holo_dark.xml"
     },
     {
         "merged": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
@@ -84,20 +84,20 @@
         "source": "/home/m4l3x/.android/build-cache/8124e4bce4fc0ca8bbffa407b0c768bce75f3b8f/output/res/drawable/notification_icon_background.xml"
     },
     {
-        "merged": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
-        "source": "/home/m4l3x/.android/build-cache/8124e4bce4fc0ca8bbffa407b0c768bce75f3b8f/output/res/drawable/abc_seekbar_tick_mark_material.xml"
-    },
-    {
         "merged": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/res/merged/debug/drawable/design_password_eye.xml",
         "source": "/home/m4l3x/.android/build-cache/383b599908e4ac724bee04f3a1d738df0ea9e512/output/res/drawable/design_password_eye.xml"
     },
     {
-        "merged": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
-        "source": "/home/m4l3x/.android/build-cache/8124e4bce4fc0ca8bbffa407b0c768bce75f3b8f/output/res/drawable/abc_vector_test.xml"
+        "merged": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/home/m4l3x/.android/build-cache/8124e4bce4fc0ca8bbffa407b0c768bce75f3b8f/output/res/drawable/abc_seekbar_tick_mark_material.xml"
     },
     {
         "merged": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/res/merged/debug/drawable/design_bottom_navigation_item_background.xml",
         "source": "/home/m4l3x/.android/build-cache/383b599908e4ac724bee04f3a1d738df0ea9e512/output/res/drawable/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/home/m4l3x/.android/build-cache/8124e4bce4fc0ca8bbffa407b0c768bce75f3b8f/output/res/drawable/abc_vector_test.xml"
     },
     {
         "merged": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
@@ -146,6 +146,10 @@
     {
         "merged": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
         "source": "/home/m4l3x/.android/build-cache/8124e4bce4fc0ca8bbffa407b0c768bce75f3b8f/output/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/res/merged/debug/drawable/kurias_splash.png",
+        "source": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/src/main/res/drawable/kurias_splash.png"
     },
     {
         "merged": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
