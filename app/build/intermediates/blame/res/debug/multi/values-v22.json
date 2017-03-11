@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v22/values-v22.xml",
+        "outputFile": "C:\\Users\\user\\kurias_app_development\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v22\\values-v22.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 125
                 },
                 "from": {
-                    "file": "/home/m4l3x/.android/build-cache/8124e4bce4fc0ca8bbffa407b0c768bce75f3b8f/output/res/values-v22/values-v22.xml",
+                    "file": "C:\\Users\\user\\.android\\build-cache\\36db13b9e3dd7ca50fbaf9a7d1bf1fe58234a3ff\\output\\res\\values-v22\\values-v22.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 212
                 },
                 "from": {
-                    "file": "/home/m4l3x/.android/build-cache/8124e4bce4fc0ca8bbffa407b0c768bce75f3b8f/output/res/values-v22/values-v22.xml",
+                    "file": "C:\\Users\\user\\.android\\build-cache\\36db13b9e3dd7ca50fbaf9a7d1bf1fe58234a3ff\\output\\res\\values-v22\\values-v22.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -50,7 +50,7 @@
                     "endOffset": 548
                 },
                 "from": {
-                    "file": "/home/m4l3x/.android/build-cache/8124e4bce4fc0ca8bbffa407b0c768bce75f3b8f/output/res/values-v22/values-v22.xml",
+                    "file": "C:\\Users\\user\\.android\\build-cache\\36db13b9e3dd7ca50fbaf9a7d1bf1fe58234a3ff\\output\\res\\values-v22\\values-v22.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -71,7 +71,7 @@
                     "endOffset": 896
                 },
                 "from": {
-                    "file": "/home/m4l3x/.android/build-cache/8124e4bce4fc0ca8bbffa407b0c768bce75f3b8f/output/res/values-v22/values-v22.xml",
+                    "file": "C:\\Users\\user\\.android\\build-cache\\36db13b9e3dd7ca50fbaf9a7d1bf1fe58234a3ff\\output\\res\\values-v22\\values-v22.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,

@@ -1,178 +1,198 @@
 [
     {
-        "merged": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
-        "source": "/home/m4l3x/.android/build-cache/8124e4bce4fc0ca8bbffa407b0c768bce75f3b8f/output/res/drawable/abc_switch_thumb_material.xml"
+        "merged": "C:\\Users\\user\\kurias_app_development\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\d2c76fb394285d701d6e74e4521d3a94e70d07db\\output\\res\\drawable\\design_password_eye.xml"
     },
     {
-        "merged": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
-        "source": "/home/m4l3x/.android/build-cache/8124e4bce4fc0ca8bbffa407b0c768bce75f3b8f/output/res/drawable/abc_seekbar_track_material.xml"
+        "merged": "C:\\Users\\user\\kurias_app_development\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\d2c76fb394285d701d6e74e4521d3a94e70d07db\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
     },
     {
-        "merged": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
-        "source": "/home/m4l3x/.android/build-cache/8124e4bce4fc0ca8bbffa407b0c768bce75f3b8f/output/res/drawable/abc_dialog_material_background.xml"
+        "merged": "C:\\Users\\user\\kurias_app_development\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mua.jpg",
+        "source": "C:\\Users\\user\\kurias_app_development\\app\\src\\main\\res\\drawable\\mua.jpg"
     },
     {
-        "merged": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
-        "source": "/home/m4l3x/.android/build-cache/8124e4bce4fc0ca8bbffa407b0c768bce75f3b8f/output/res/drawable/abc_textfield_search_material.xml"
+        "merged": "C:\\Users\\user\\kurias_app_development\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\36db13b9e3dd7ca50fbaf9a7d1bf1fe58234a3ff\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
-        "source": "/home/m4l3x/.android/build-cache/8124e4bce4fc0ca8bbffa407b0c768bce75f3b8f/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+        "merged": "C:\\Users\\user\\kurias_app_development\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\36db13b9e3dd7ca50fbaf9a7d1bf1fe58234a3ff\\output\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
-        "merged": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/res/merged/debug/drawable/navigation_empty_icon.xml",
-        "source": "/home/m4l3x/.android/build-cache/383b599908e4ac724bee04f3a1d738df0ea9e512/output/res/drawable/navigation_empty_icon.xml"
+        "merged": "C:\\Users\\user\\kurias_app_development\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\36db13b9e3dd7ca50fbaf9a7d1bf1fe58234a3ff\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
-        "merged": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
-        "source": "/home/m4l3x/.android/build-cache/8124e4bce4fc0ca8bbffa407b0c768bce75f3b8f/output/res/drawable/abc_cab_background_top_material.xml"
+        "merged": "C:\\Users\\user\\kurias_app_development\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\36db13b9e3dd7ca50fbaf9a7d1bf1fe58234a3ff\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "/home/m4l3x/.android/build-cache/8124e4bce4fc0ca8bbffa407b0c768bce75f3b8f/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+        "merged": "C:\\Users\\user\\kurias_app_development\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\36db13b9e3dd7ca50fbaf9a7d1bf1fe58234a3ff\\output\\res\\drawable\\notification_icon_background.xml"
     },
     {
-        "merged": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
-        "source": "/home/m4l3x/.android/build-cache/8124e4bce4fc0ca8bbffa407b0c768bce75f3b8f/output/res/drawable/abc_seekbar_thumb_material.xml"
+        "merged": "C:\\Users\\user\\kurias_app_development\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\36db13b9e3dd7ca50fbaf9a7d1bf1fe58234a3ff\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
-        "source": "/home/m4l3x/.android/build-cache/8124e4bce4fc0ca8bbffa407b0c768bce75f3b8f/output/res/drawable/abc_item_background_holo_dark.xml"
+        "merged": "C:\\Users\\user\\kurias_app_development\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\36db13b9e3dd7ca50fbaf9a7d1bf1fe58234a3ff\\output\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
-        "merged": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
-        "source": "/home/m4l3x/.android/build-cache/383b599908e4ac724bee04f3a1d738df0ea9e512/output/res/drawable/design_snackbar_background.xml"
+        "merged": "C:\\Users\\user\\kurias_app_development\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\36db13b9e3dd7ca50fbaf9a7d1bf1fe58234a3ff\\output\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
-        "merged": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
-        "source": "/home/m4l3x/.android/build-cache/8124e4bce4fc0ca8bbffa407b0c768bce75f3b8f/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "C:\\Users\\user\\kurias_app_development\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\36db13b9e3dd7ca50fbaf9a7d1bf1fe58234a3ff\\output\\res\\drawable\\abc_vector_test.xml"
     },
     {
-        "merged": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
-        "source": "/home/m4l3x/.android/build-cache/383b599908e4ac724bee04f3a1d738df0ea9e512/output/res/drawable/design_fab_background.xml"
+        "merged": "C:\\Users\\user\\kurias_app_development\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kuriasss.jpg",
+        "source": "C:\\Users\\user\\kurias_app_development\\app\\src\\main\\res\\drawable\\kuriasss.jpg"
     },
     {
-        "merged": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
-        "source": "/home/m4l3x/.android/build-cache/8124e4bce4fc0ca8bbffa407b0c768bce75f3b8f/output/res/drawable/abc_ic_ab_back_material.xml"
+        "merged": "C:\\Users\\user\\kurias_app_development\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\36db13b9e3dd7ca50fbaf9a7d1bf1fe58234a3ff\\output\\res\\drawable\\abc_ic_clear_material.xml"
     },
     {
-        "merged": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
-        "source": "/home/m4l3x/.android/build-cache/8124e4bce4fc0ca8bbffa407b0c768bce75f3b8f/output/res/drawable/abc_ic_voice_search_api_material.xml"
+        "merged": "C:\\Users\\user\\kurias_app_development\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\36db13b9e3dd7ca50fbaf9a7d1bf1fe58234a3ff\\output\\res\\drawable\\abc_seekbar_track_material.xml"
     },
     {
-        "merged": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
-        "source": "/home/m4l3x/.android/build-cache/8124e4bce4fc0ca8bbffa407b0c768bce75f3b8f/output/res/drawable/abc_cab_background_internal_bg.xml"
+        "merged": "C:\\Users\\user\\kurias_app_development\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\36db13b9e3dd7ca50fbaf9a7d1bf1fe58234a3ff\\output\\res\\drawable\\notification_bg.xml"
     },
     {
-        "merged": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
-        "source": "/home/m4l3x/.android/build-cache/8124e4bce4fc0ca8bbffa407b0c768bce75f3b8f/output/res/drawable/abc_text_cursor_material.xml"
+        "merged": "C:\\Users\\user\\kurias_app_development\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\36db13b9e3dd7ca50fbaf9a7d1bf1fe58234a3ff\\output\\res\\drawable\\abc_btn_colored_material.xml"
     },
     {
-        "merged": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
-        "source": "/home/m4l3x/.android/build-cache/8124e4bce4fc0ca8bbffa407b0c768bce75f3b8f/output/res/drawable/abc_ratingbar_material.xml"
+        "merged": "C:\\Users\\user\\kurias_app_development\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\36db13b9e3dd7ca50fbaf9a7d1bf1fe58234a3ff\\output\\res\\drawable\\notification_tile_bg.xml"
     },
     {
-        "merged": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
-        "source": "/home/m4l3x/.android/build-cache/8124e4bce4fc0ca8bbffa407b0c768bce75f3b8f/output/res/drawable/abc_spinner_textfield_background_material.xml"
+        "merged": "C:\\Users\\user\\kurias_app_development\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\36db13b9e3dd7ca50fbaf9a7d1bf1fe58234a3ff\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
     },
     {
-        "merged": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
-        "source": "/home/m4l3x/.android/build-cache/8124e4bce4fc0ca8bbffa407b0c768bce75f3b8f/output/res/drawable/notification_bg.xml"
+        "merged": "C:\\Users\\user\\kurias_app_development\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\36db13b9e3dd7ca50fbaf9a7d1bf1fe58234a3ff\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
     },
     {
-        "merged": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
-        "source": "/home/m4l3x/.android/build-cache/8124e4bce4fc0ca8bbffa407b0c768bce75f3b8f/output/res/drawable/notification_icon_background.xml"
+        "merged": "C:\\Users\\user\\kurias_app_development\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\36db13b9e3dd7ca50fbaf9a7d1bf1fe58234a3ff\\output\\res\\drawable\\abc_ic_search_api_material.xml"
     },
     {
-        "merged": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/res/merged/debug/drawable/design_password_eye.xml",
-        "source": "/home/m4l3x/.android/build-cache/383b599908e4ac724bee04f3a1d738df0ea9e512/output/res/drawable/design_password_eye.xml"
+        "merged": "C:\\Users\\user\\kurias_app_development\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\36db13b9e3dd7ca50fbaf9a7d1bf1fe58234a3ff\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
     },
     {
-        "merged": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
-        "source": "/home/m4l3x/.android/build-cache/8124e4bce4fc0ca8bbffa407b0c768bce75f3b8f/output/res/drawable/abc_seekbar_tick_mark_material.xml"
+        "merged": "C:\\Users\\user\\kurias_app_development\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\36db13b9e3dd7ca50fbaf9a7d1bf1fe58234a3ff\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
     },
     {
-        "merged": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/res/merged/debug/drawable/design_bottom_navigation_item_background.xml",
-        "source": "/home/m4l3x/.android/build-cache/383b599908e4ac724bee04f3a1d738df0ea9e512/output/res/drawable/design_bottom_navigation_item_background.xml"
+        "merged": "C:\\Users\\user\\kurias_app_development\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\36db13b9e3dd7ca50fbaf9a7d1bf1fe58234a3ff\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
-        "merged": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
-        "source": "/home/m4l3x/.android/build-cache/8124e4bce4fc0ca8bbffa407b0c768bce75f3b8f/output/res/drawable/abc_vector_test.xml"
+        "merged": "C:\\Users\\user\\kurias_app_development\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lipss.jpg",
+        "source": "C:\\Users\\user\\kurias_app_development\\app\\src\\main\\res\\drawable\\lipss.jpg"
     },
     {
-        "merged": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
-        "source": "/home/m4l3x/.android/build-cache/8124e4bce4fc0ca8bbffa407b0c768bce75f3b8f/output/res/drawable/abc_list_selector_holo_light.xml"
+        "merged": "C:\\Users\\user\\kurias_app_development\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\36db13b9e3dd7ca50fbaf9a7d1bf1fe58234a3ff\\output\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
-        "merged": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
-        "source": "/home/m4l3x/.android/build-cache/8124e4bce4fc0ca8bbffa407b0c768bce75f3b8f/output/res/drawable/abc_item_background_holo_light.xml"
+        "merged": "C:\\Users\\user\\kurias_app_development\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kurias_splash.png",
+        "source": "C:\\Users\\user\\kurias_app_development\\app\\src\\main\\res\\drawable\\kurias_splash.png"
     },
     {
-        "merged": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
-        "source": "/home/m4l3x/.android/build-cache/8124e4bce4fc0ca8bbffa407b0c768bce75f3b8f/output/res/drawable/notification_bg_low.xml"
+        "merged": "C:\\Users\\user\\kurias_app_development\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\d2c76fb394285d701d6e74e4521d3a94e70d07db\\output\\res\\drawable\\navigation_empty_icon.xml"
     },
     {
-        "merged": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
-        "source": "/home/m4l3x/.android/build-cache/8124e4bce4fc0ca8bbffa407b0c768bce75f3b8f/output/res/drawable/abc_btn_radio_material.xml"
+        "merged": "C:\\Users\\user\\kurias_app_development\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kkkurias.png",
+        "source": "C:\\Users\\user\\kurias_app_development\\app\\src\\main\\res\\drawable\\kkkurias.png"
     },
     {
-        "merged": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
-        "source": "/home/m4l3x/.android/build-cache/8124e4bce4fc0ca8bbffa407b0c768bce75f3b8f/output/res/drawable/abc_ic_menu_overflow_material.xml"
+        "merged": "C:\\Users\\user\\kurias_app_development\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\36db13b9e3dd7ca50fbaf9a7d1bf1fe58234a3ff\\output\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
-        "merged": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
-        "source": "/home/m4l3x/.android/build-cache/8124e4bce4fc0ca8bbffa407b0c768bce75f3b8f/output/res/drawable/abc_ic_search_api_material.xml"
+        "merged": "C:\\Users\\user\\kurias_app_development\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\36db13b9e3dd7ca50fbaf9a7d1bf1fe58234a3ff\\output\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
-        "merged": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
-        "source": "/home/m4l3x/.android/build-cache/8124e4bce4fc0ca8bbffa407b0c768bce75f3b8f/output/res/drawable/abc_ic_clear_material.xml"
+        "merged": "C:\\Users\\user\\kurias_app_development\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\36db13b9e3dd7ca50fbaf9a7d1bf1fe58234a3ff\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
-        "source": "/home/m4l3x/.android/build-cache/8124e4bce4fc0ca8bbffa407b0c768bce75f3b8f/output/res/drawable/abc_tab_indicator_material.xml"
+        "merged": "C:\\Users\\user\\kurias_app_development\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\36db13b9e3dd7ca50fbaf9a7d1bf1fe58234a3ff\\output\\res\\drawable\\abc_dialog_material_background.xml"
     },
     {
-        "merged": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
-        "source": "/home/m4l3x/.android/build-cache/8124e4bce4fc0ca8bbffa407b0c768bce75f3b8f/output/res/drawable/abc_list_selector_holo_dark.xml"
+        "merged": "C:\\Users\\user\\kurias_app_development\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\36db13b9e3dd7ca50fbaf9a7d1bf1fe58234a3ff\\output\\res\\drawable\\abc_ratingbar_material.xml"
     },
     {
-        "merged": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
-        "source": "/home/m4l3x/.android/build-cache/8124e4bce4fc0ca8bbffa407b0c768bce75f3b8f/output/res/drawable/abc_ic_go_search_api_material.xml"
+        "merged": "C:\\Users\\user\\kurias_app_development\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\36db13b9e3dd7ca50fbaf9a7d1bf1fe58234a3ff\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
-        "source": "/home/m4l3x/.android/build-cache/8124e4bce4fc0ca8bbffa407b0c768bce75f3b8f/output/res/drawable/abc_ratingbar_small_material.xml"
+        "merged": "C:\\Users\\user\\kurias_app_development\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\36db13b9e3dd7ca50fbaf9a7d1bf1fe58234a3ff\\output\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
-        "merged": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
-        "source": "/home/m4l3x/.android/build-cache/8124e4bce4fc0ca8bbffa407b0c768bce75f3b8f/output/res/drawable/abc_btn_colored_material.xml"
+        "merged": "C:\\Users\\user\\kurias_app_development\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\d2c76fb394285d701d6e74e4521d3a94e70d07db\\output\\res\\drawable\\design_fab_background.xml"
     },
     {
-        "merged": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/res/merged/debug/drawable/kurias_splash.png",
-        "source": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/src/main/res/drawable/kurias_splash.png"
+        "merged": "C:\\Users\\user\\kurias_app_development\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\36db13b9e3dd7ca50fbaf9a7d1bf1fe58234a3ff\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
-        "source": "/home/m4l3x/.android/build-cache/8124e4bce4fc0ca8bbffa407b0c768bce75f3b8f/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+        "merged": "C:\\Users\\user\\kurias_app_development\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\36db13b9e3dd7ca50fbaf9a7d1bf1fe58234a3ff\\output\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
-        "merged": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
-        "source": "/home/m4l3x/.android/build-cache/8124e4bce4fc0ca8bbffa407b0c768bce75f3b8f/output/res/drawable/notification_tile_bg.xml"
+        "merged": "C:\\Users\\user\\kurias_app_development\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\36db13b9e3dd7ca50fbaf9a7d1bf1fe58234a3ff\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
     },
     {
-        "merged": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
-        "source": "/home/m4l3x/.android/build-cache/8124e4bce4fc0ca8bbffa407b0c768bce75f3b8f/output/res/drawable/abc_btn_borderless_material.xml"
+        "merged": "C:\\Users\\user\\kurias_app_development\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\d2c76fb394285d701d6e74e4521d3a94e70d07db\\output\\res\\drawable\\design_snackbar_background.xml"
     },
     {
-        "merged": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
-        "source": "/home/m4l3x/.android/build-cache/8124e4bce4fc0ca8bbffa407b0c768bce75f3b8f/output/res/drawable/abc_ratingbar_indicator_material.xml"
+        "merged": "C:\\Users\\user\\kurias_app_development\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\36db13b9e3dd7ca50fbaf9a7d1bf1fe58234a3ff\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
-        "merged": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
-        "source": "/home/m4l3x/.android/build-cache/8124e4bce4fc0ca8bbffa407b0c768bce75f3b8f/output/res/drawable/abc_btn_check_material.xml"
+        "merged": "C:\\Users\\user\\kurias_app_development\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\36db13b9e3dd7ca50fbaf9a7d1bf1fe58234a3ff\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
-        "source": "/home/m4l3x/.android/build-cache/8124e4bce4fc0ca8bbffa407b0c768bce75f3b8f/output/res/drawable/abc_edit_text_material.xml"
+        "merged": "C:\\Users\\user\\kurias_app_development\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\36db13b9e3dd7ca50fbaf9a7d1bf1fe58234a3ff\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\kurias_app_development\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\36db13b9e3dd7ca50fbaf9a7d1bf1fe58234a3ff\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\kurias_app_development\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kuriass.jpg",
+        "source": "C:\\Users\\user\\kurias_app_development\\app\\src\\main\\res\\drawable\\kuriass.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\kurias_app_development\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\36db13b9e3dd7ca50fbaf9a7d1bf1fe58234a3ff\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\kurias_app_development\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\36db13b9e3dd7ca50fbaf9a7d1bf1fe58234a3ff\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\kurias_app_development\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\36db13b9e3dd7ca50fbaf9a7d1bf1fe58234a3ff\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
     }
 ]

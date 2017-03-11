@@ -1,94 +1,94 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/m4l3x/AndroidStudioProjects/kurias_app_development/app/src/main/AndroidManifest.xml:2:1-31:12
+ADDED from C:\Users\user\kurias_app_development\app\src\main\AndroidManifest.xml:2:1-31:12
 	package
-		ADDED from /home/m4l3x/AndroidStudioProjects/kurias_app_development/app/src/main/AndroidManifest.xml:3:11-51
-		INJECTED from /home/m4l3x/AndroidStudioProjects/kurias_app_development/app/src/main/AndroidManifest.xml
-		INJECTED from /home/m4l3x/AndroidStudioProjects/kurias_app_development/app/src/main/AndroidManifest.xml
+		ADDED from C:\Users\user\kurias_app_development\app\src\main\AndroidManifest.xml:3:11-51
+		INJECTED from C:\Users\user\kurias_app_development\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\kurias_app_development\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/m4l3x/AndroidStudioProjects/kurias_app_development/app/src/main/AndroidManifest.xml
-		INJECTED from /home/m4l3x/AndroidStudioProjects/kurias_app_development/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\user\kurias_app_development\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\kurias_app_development\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/m4l3x/AndroidStudioProjects/kurias_app_development/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\user\kurias_app_development\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from /home/m4l3x/AndroidStudioProjects/kurias_app_development/app/src/main/AndroidManifest.xml
-		INJECTED from /home/m4l3x/AndroidStudioProjects/kurias_app_development/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\user\kurias_app_development\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\kurias_app_development\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.GET_ACCOUNTS
-ADDED from /home/m4l3x/AndroidStudioProjects/kurias_app_development/app/src/main/AndroidManifest.xml:6:5-70
+ADDED from C:\Users\user\kurias_app_development\app\src\main\AndroidManifest.xml:6:5-70
 	android:name
-		ADDED from /home/m4l3x/AndroidStudioProjects/kurias_app_development/app/src/main/AndroidManifest.xml:6:22-68
+		ADDED from C:\Users\user\kurias_app_development\app\src\main\AndroidManifest.xml:6:22-68
 uses-permission#android.permission.READ_PROFILE
-ADDED from /home/m4l3x/AndroidStudioProjects/kurias_app_development/app/src/main/AndroidManifest.xml:7:5-70
+ADDED from C:\Users\user\kurias_app_development\app\src\main\AndroidManifest.xml:7:5-70
 	android:name
-		ADDED from /home/m4l3x/AndroidStudioProjects/kurias_app_development/app/src/main/AndroidManifest.xml:7:22-68
+		ADDED from C:\Users\user\kurias_app_development\app\src\main\AndroidManifest.xml:7:22-68
 uses-permission#android.permission.READ_CONTACTS
-ADDED from /home/m4l3x/AndroidStudioProjects/kurias_app_development/app/src/main/AndroidManifest.xml:8:5-71
+ADDED from C:\Users\user\kurias_app_development\app\src\main\AndroidManifest.xml:8:5-71
 	android:name
-		ADDED from /home/m4l3x/AndroidStudioProjects/kurias_app_development/app/src/main/AndroidManifest.xml:8:22-69
+		ADDED from C:\Users\user\kurias_app_development\app\src\main\AndroidManifest.xml:8:22-69
 application
-ADDED from /home/m4l3x/AndroidStudioProjects/kurias_app_development/app/src/main/AndroidManifest.xml:10:5-29:19
-MERGED from [com.android.support:design:25.2.0] /home/m4l3x/.android/build-cache/383b599908e4ac724bee04f3a1d738df0ea9e512/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:appcompat-v7:25.2.0] /home/m4l3x/.android/build-cache/8124e4bce4fc0ca8bbffa407b0c768bce75f3b8f/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.2.0] /home/m4l3x/.android/build-cache/62aca6dfb50cd23b2c28236a1b509c9e1901dacf/output/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:25.2.0] /home/m4l3x/.android/build-cache/dc0ba9d48c26cbcb1e4095dd72c3b2e61da7bc45/output/AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:transition:25.2.0] /home/m4l3x/.android/build-cache/fe523cf8d814f7c715d6ed07836eb4815d849a11/output/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:25.2.0] /home/m4l3x/.android/build-cache/1fdde318ee604c176094f80b084a40bf3d2df4d2/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:25.2.0] /home/m4l3x/.android/build-cache/fa37fd875079951c07e0c96fa321bb75dae7e0c2/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:25.2.0] /home/m4l3x/.android/build-cache/0cc1ab87fed925191cb36e3d04fdaffa365610a4/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:25.2.0] /home/m4l3x/.android/build-cache/2d372dacc2e1f0d083fd9f2636d3a6dc08de801f/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:25.2.0] /home/m4l3x/.android/build-cache/dd566576630c377a102d121caa24d9410d44a4fa/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:25.2.0] /home/m4l3x/.android/build-cache/03d098e9702deb8d9ee945f9b1a751b5e79e8d50/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta4] /home/m4l3x/.android/build-cache/2ef5397c9918fc818f9856ee35e194800e2068df/output/AndroidManifest.xml:9:5-20
+ADDED from C:\Users\user\kurias_app_development\app\src\main\AndroidManifest.xml:10:5-29:19
+MERGED from [com.android.support:design:25.2.0] C:\Users\user\.android\build-cache\d2c76fb394285d701d6e74e4521d3a94e70d07db\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\user\.android\build-cache\36db13b9e3dd7ca50fbaf9a7d1bf1fe58234a3ff\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\user\.android\build-cache\d6845ff344a3095ea8df30278dd17abe3c7aa3e2\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\user\.android\build-cache\6f0c36fb88762e6c5045575b847765e7c1544aec\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.2.0] C:\Users\user\.android\build-cache\189321aa445efa4bec548bb86614aed6cfff9222\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\user\.android\build-cache\dfa54e9f63efa9336f58dd8f13d51c929521e6e2\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\user\.android\build-cache\b4f7e1788076c11a98e9a4a6c544b334242f7632\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\user\.android\build-cache\ed10c5333650e13ee132e848fdd5c3ff513d5e19\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\user\.android\build-cache\b2f395c6020fde2003ddd98aaf031bdfbf76f376\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\user\.android\build-cache\a31561c9bd2fc309a00efdac3835448ebb4d07d8\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\user\.android\build-cache\3e2acadcfa2544c22f8848bf949f32345d0b1fd6\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta4] C:\Users\user\.android\build-cache\5ab23095e93c410c6aeddb12f0beeabb6d78529f\output\AndroidManifest.xml:9:5-20
 	android:label
-		ADDED from /home/m4l3x/AndroidStudioProjects/kurias_app_development/app/src/main/AndroidManifest.xml:13:9-41
+		ADDED from C:\Users\user\kurias_app_development\app\src\main\AndroidManifest.xml:13:9-41
 	android:supportsRtl
-		ADDED from /home/m4l3x/AndroidStudioProjects/kurias_app_development/app/src/main/AndroidManifest.xml:14:9-35
+		ADDED from C:\Users\user\kurias_app_development\app\src\main\AndroidManifest.xml:14:9-35
 	android:allowBackup
-		ADDED from /home/m4l3x/AndroidStudioProjects/kurias_app_development/app/src/main/AndroidManifest.xml:11:9-35
+		ADDED from C:\Users\user\kurias_app_development\app\src\main\AndroidManifest.xml:11:9-35
 	android:icon
-		ADDED from /home/m4l3x/AndroidStudioProjects/kurias_app_development/app/src/main/AndroidManifest.xml:12:9-43
+		ADDED from C:\Users\user\kurias_app_development\app\src\main\AndroidManifest.xml:12:9-43
 	android:theme
-		ADDED from /home/m4l3x/AndroidStudioProjects/kurias_app_development/app/src/main/AndroidManifest.xml:15:9-40
+		ADDED from C:\Users\user\kurias_app_development\app\src\main\AndroidManifest.xml:15:9-40
 activity#com.example.m4l3x.kuriasappdev.SplashActivity
-ADDED from /home/m4l3x/AndroidStudioProjects/kurias_app_development/app/src/main/AndroidManifest.xml:17:9-23:20
+ADDED from C:\Users\user\kurias_app_development\app\src\main\AndroidManifest.xml:17:9-23:20
 	android:theme
-		ADDED from /home/m4l3x/AndroidStudioProjects/kurias_app_development/app/src/main/AndroidManifest.xml:18:13-55
+		ADDED from C:\Users\user\kurias_app_development\app\src\main\AndroidManifest.xml:18:13-55
 	android:name
-		ADDED from /home/m4l3x/AndroidStudioProjects/kurias_app_development/app/src/main/AndroidManifest.xml:17:19-49
+		ADDED from C:\Users\user\kurias_app_development\app\src\main\AndroidManifest.xml:17:19-49
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /home/m4l3x/AndroidStudioProjects/kurias_app_development/app/src/main/AndroidManifest.xml:19:19-22:35
+ADDED from C:\Users\user\kurias_app_development\app\src\main\AndroidManifest.xml:19:19-22:35
 action#android.intent.action.MAIN
-ADDED from /home/m4l3x/AndroidStudioProjects/kurias_app_development/app/src/main/AndroidManifest.xml:20:23-74
+ADDED from C:\Users\user\kurias_app_development\app\src\main\AndroidManifest.xml:20:23-74
 	android:name
-		ADDED from /home/m4l3x/AndroidStudioProjects/kurias_app_development/app/src/main/AndroidManifest.xml:20:31-72
+		ADDED from C:\Users\user\kurias_app_development\app\src\main\AndroidManifest.xml:20:31-72
 category#android.intent.category.LAUNCHER
-ADDED from /home/m4l3x/AndroidStudioProjects/kurias_app_development/app/src/main/AndroidManifest.xml:21:23-82
+ADDED from C:\Users\user\kurias_app_development\app\src\main\AndroidManifest.xml:21:23-82
 	android:name
-		ADDED from /home/m4l3x/AndroidStudioProjects/kurias_app_development/app/src/main/AndroidManifest.xml:21:33-80
+		ADDED from C:\Users\user\kurias_app_development\app\src\main\AndroidManifest.xml:21:33-80
 activity#com.example.m4l3x.kuriasappdev.KuriasMainActivity
-ADDED from /home/m4l3x/AndroidStudioProjects/kurias_app_development/app/src/main/AndroidManifest.xml:25:9-27:20
+ADDED from C:\Users\user\kurias_app_development\app\src\main\AndroidManifest.xml:25:9-27:20
 	android:name
-		ADDED from /home/m4l3x/AndroidStudioProjects/kurias_app_development/app/src/main/AndroidManifest.xml:25:19-53
+		ADDED from C:\Users\user\kurias_app_development\app\src\main\AndroidManifest.xml:25:19-53
 uses-sdk
-INJECTED from /home/m4l3x/AndroidStudioProjects/kurias_app_development/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:design:25.2.0] /home/m4l3x/.android/build-cache/383b599908e4ac724bee04f3a1d738df0ea9e512/output/AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:appcompat-v7:25.2.0] /home/m4l3x/.android/build-cache/8124e4bce4fc0ca8bbffa407b0c768bce75f3b8f/output/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:25.2.0] /home/m4l3x/.android/build-cache/62aca6dfb50cd23b2c28236a1b509c9e1901dacf/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.2.0] /home/m4l3x/.android/build-cache/dc0ba9d48c26cbcb1e4095dd72c3b2e61da7bc45/output/AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:recyclerview-v7:25.2.0] /home/m4l3x/.android/build-cache/d8028f2e4278ba9801c8a6eb35140a813dc5b1c2/output/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:transition:25.2.0] /home/m4l3x/.android/build-cache/fe523cf8d814f7c715d6ed07836eb4815d849a11/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:25.2.0] /home/m4l3x/.android/build-cache/1fdde318ee604c176094f80b084a40bf3d2df4d2/output/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.2.0] /home/m4l3x/.android/build-cache/fa37fd875079951c07e0c96fa321bb75dae7e0c2/output/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.2.0] /home/m4l3x/.android/build-cache/0cc1ab87fed925191cb36e3d04fdaffa365610a4/output/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.2.0] /home/m4l3x/.android/build-cache/2d372dacc2e1f0d083fd9f2636d3a6dc08de801f/output/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.2.0] /home/m4l3x/.android/build-cache/dd566576630c377a102d121caa24d9410d44a4fa/output/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:25.2.0] /home/m4l3x/.android/build-cache/03d098e9702deb8d9ee945f9b1a751b5e79e8d50/output/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta4] /home/m4l3x/.android/build-cache/2ef5397c9918fc818f9856ee35e194800e2068df/output/AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\user\kurias_app_development\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.2.0] C:\Users\user\.android\build-cache\d2c76fb394285d701d6e74e4521d3a94e70d07db\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\user\.android\build-cache\36db13b9e3dd7ca50fbaf9a7d1bf1fe58234a3ff\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\user\.android\build-cache\d6845ff344a3095ea8df30278dd17abe3c7aa3e2\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\user\.android\build-cache\6f0c36fb88762e6c5045575b847765e7c1544aec\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] C:\Users\user\.android\build-cache\ebadf33e1e8d4a74fbda51b7933d98fd3df4fff7\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.2.0] C:\Users\user\.android\build-cache\189321aa445efa4bec548bb86614aed6cfff9222\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\user\.android\build-cache\dfa54e9f63efa9336f58dd8f13d51c929521e6e2\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\user\.android\build-cache\b4f7e1788076c11a98e9a4a6c544b334242f7632\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\user\.android\build-cache\ed10c5333650e13ee132e848fdd5c3ff513d5e19\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\user\.android\build-cache\b2f395c6020fde2003ddd98aaf031bdfbf76f376\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\user\.android\build-cache\a31561c9bd2fc309a00efdac3835448ebb4d07d8\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\user\.android\build-cache\3e2acadcfa2544c22f8848bf949f32345d0b1fd6\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta4] C:\Users\user\.android\build-cache\5ab23095e93c410c6aeddb12f0beeabb6d78529f\output\AndroidManifest.xml:5:5-7:41
 	tools:overrideLibrary
-		ADDED from [com.android.support:design:25.2.0] /home/m4l3x/.android/build-cache/383b599908e4ac724bee04f3a1d738df0ea9e512/output/AndroidManifest.xml:23:9-59
+		ADDED from [com.android.support:design:25.2.0] C:\Users\user\.android\build-cache\d2c76fb394285d701d6e74e4521d3a94e70d07db\output\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		INJECTED from /home/m4l3x/AndroidStudioProjects/kurias_app_development/app/src/main/AndroidManifest.xml
-		INJECTED from /home/m4l3x/AndroidStudioProjects/kurias_app_development/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\user\kurias_app_development\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\kurias_app_development\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/m4l3x/AndroidStudioProjects/kurias_app_development/app/src/main/AndroidManifest.xml
-		INJECTED from /home/m4l3x/AndroidStudioProjects/kurias_app_development/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\user\kurias_app_development\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\kurias_app_development\app\src\main\AndroidManifest.xml
