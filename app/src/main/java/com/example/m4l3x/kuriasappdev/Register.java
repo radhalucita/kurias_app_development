@@ -23,5 +23,9 @@ public class Register extends AppCompatActivity {
                 //   startActivity(intent);
             }
         });
+
+}
+
+    private void SetContentView(int activity_register) {
     }
 }
