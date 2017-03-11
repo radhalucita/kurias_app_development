@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="SlidingTabWithColorIcons-1.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/5c217c22a379c17f3adbe0088fae55680c62aa66/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/5c217c22a379c17f3adbe0088fae55680c62aa66/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.myinnos/SlidingTabWithColorIcons/1.0/a4f8c3baf7b1e59ca108705d61fdbe38eed1b8d8/SlidingTabWithColorIcons-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
