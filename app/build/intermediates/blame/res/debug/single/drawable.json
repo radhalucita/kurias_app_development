@@ -40,16 +40,16 @@
         "source": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/src/main/res/drawable/curler.png"
     },
     {
-        "merged": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
-        "source": "/home/m4l3x/.android/build-cache/8124e4bce4fc0ca8bbffa407b0c768bce75f3b8f/output/res/drawable/abc_ic_voice_search_api_material.xml"
-    },
-    {
         "merged": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/res/merged/debug/drawable/hairdryer1.png",
         "source": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/src/main/res/drawable/hairdryer1.png"
     },
     {
         "merged": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
         "source": "/home/m4l3x/.android/build-cache/8124e4bce4fc0ca8bbffa407b0c768bce75f3b8f/output/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/home/m4l3x/.android/build-cache/8124e4bce4fc0ca8bbffa407b0c768bce75f3b8f/output/res/drawable/abc_ic_voice_search_api_material.xml"
     },
     {
         "merged": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
@@ -152,12 +152,12 @@
         "source": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/src/main/res/drawable/comb3.png"
     },
     {
-        "merged": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/res/merged/debug/drawable/hairdresserchair.png",
-        "source": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/src/main/res/drawable/hairdresserchair.png"
-    },
-    {
         "merged": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
         "source": "/home/m4l3x/.android/build-cache/8124e4bce4fc0ca8bbffa407b0c768bce75f3b8f/output/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/res/merged/debug/drawable/hairdresserchair.png",
+        "source": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/src/main/res/drawable/hairdresserchair.png"
     },
     {
         "merged": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/res/merged/debug/drawable/moustache1.png",

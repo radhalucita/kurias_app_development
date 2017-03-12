@@ -1,14 +1,14 @@
 [
     {
-        "merged": "C:\\Users\\user\\kurias_app_development\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
-        "source": "C:\\Users\\user\\kurias_app_development\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+        "merged": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/res/merged/debug/mipmap-mdpi/splash.png",
+        "source": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/src/main/res/mipmap-mdpi/splash.png"
     },
     {
-        "merged": "C:\\Users\\user\\kurias_app_development\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\toolbar_logo.png",
-        "source": "C:\\Users\\user\\kurias_app_development\\app\\src\\main\\res\\mipmap-mdpi\\toolbar_logo.png"
+        "merged": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/res/merged/debug/mipmap-mdpi/toolbar_logo.png",
+        "source": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/src/main/res/mipmap-mdpi/toolbar_logo.png"
     },
     {
-        "merged": "C:\\Users\\user\\kurias_app_development\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\splash.png",
-        "source": "C:\\Users\\user\\kurias_app_development\\app\\src\\main\\res\\mipmap-mdpi\\splash.png"
+        "merged": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/home/m4l3x/AndroidStudioProjects/kurias_app_development/app/src/main/res/mipmap-mdpi/ic_launcher.png"
     }
 ]
