@@ -31,7 +31,9 @@
             </intent-filter>
         </activity>
         <!-- MAIN ACTIVITY -->
-        <activity android:name="com.example.m4l3x.kuriasappdev.KuriasMainActivity" >
+        <activity
+            android:name="com.example.m4l3x.kuriasappdev.KuriasMainActivity"
+            android:theme="@style/AppThemeNoActionBar" >
         </activity>
     </application>
 

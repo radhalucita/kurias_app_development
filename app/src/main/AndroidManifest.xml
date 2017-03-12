@@ -22,9 +22,11 @@
                   </intent-filter>
         </activity>
         <!-- MAIN ACTIVITY -->
-        <activity android:name=".KuriasMainActivity">
+        <activity android:name=".KuriasMainActivity"
+            android:theme="@style/AppThemeNoActionBar">
 
         </activity>
+
 
     </application>
 
